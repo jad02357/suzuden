@@ -10,4 +10,8 @@
 - ワークツリーとステージングエリアの差分を確認する
   - git diff
 - コミットする
-  g- git commit
+  - git commit
+- 最後にコミットした状態に戻す
+  - git checkout
+- ステージングエリアへの登録を取り消す
+  - git reset HEAD filename
